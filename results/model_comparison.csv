@@ -1,0 +1,10 @@
+Model,API_Model_ID,Released,Input_per_1M_USD,Output_per_1M_USD,Est_cost_per_GSP_USD,Notes
+GPT-3.5 FT,ft:gpt-3.5-turbo-0125:personal:gsp35v4:DbaumW68,2024-01-25,3.00,6.00,1.44,Fine-tuned on gpt-3.5-turbo-0125; pricing at time of evaluation
+GPT-4o (base),gpt-4o-2024-08-06,2024-08-06,2.50,10.00,1.35,Base model; no fine-tuning
+GPT-4o FT,ft:gpt-4o-2024-08-06:personal:gsp4ov4:DbRURPJw,2024-08-06,3.75,15.00,1.80,Fine-tuned on gpt-4o-2024-08-06
+GPT-4.1 (base),gpt-4.1-2025-04-14,2025-04-14,2.00,8.00,1.20,Base model; no fine-tuning
+GPT-4.1 FT v4,ft:gpt-4.1-2025-04-14:personal:gspv4:DbO4oSN8,2025-04-14,3.00,12.00,1.44,Fine-tuned on gpt-4.1-2025-04-14; best overall model
+o3,o3,2025-04-16,15.00,60.00,14.09,Evaluated March 2026 at $15/$60 pricing; includes ~2000 estimated reasoning tokens billed at output rate
+Claude Sonnet 4.6,claude-sonnet-4-6,2026-02-17,3.00,15.00,1.72,Text-only; base model
+Claude Opus 4.7 (vision),claude-opus-4-7,2026-04-16,5.00,25.00,4.65,Vision mode; ~17000 input tokens/question due to image encoding
+GPT-5.5 (base),gpt-5.5,2026-04-24,5.00,30.00,2.81,Base model; no fine-tuning; trial GSPs only

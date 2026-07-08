@@ -1,0 +1,9 @@
+reference_model,comparison_model,ref_accuracy,comparison_accuracy,delta_accuracy,n_questions,n_ref_correct_only,n_comparison_correct_only,n_discordant,p_value,significance
+GPT-4.1 FT,GPT-3.5 FT,0.7593,0.7137,0.0456,241,34,23,57,0.148006,ns
+GPT-4.1 FT,GPT-4o,0.7593,0.6805,0.0788,241,41,22,63,0.016858,*
+GPT-4.1 FT,GPT-4o FT,0.7593,0.7676,-0.0083,241,18,20,38,0.749259,ns
+GPT-4.1 FT,GPT-4.1,0.7593,0.7261,0.0332,241,23,15,38,0.199591,ns
+GPT-4.1 FT,GPT-5.5,0.7593,0.7012,0.0581,241,36,22,58,0.067445,†
+GPT-4.1 FT,o3,0.7593,0.751,0.0083,241,25,23,48,0.77545,ns
+GPT-4.1 FT,Sonnet 4.6,0.7593,0.7469,0.0124,241,29,26,55,0.68888,ns
+GPT-4.1 FT,Opus 4.7,0.7593,0.7344,0.0249,241,34,28,62,0.449963,ns

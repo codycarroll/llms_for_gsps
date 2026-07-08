@@ -1,0 +1,7 @@
+GSP,GSP_ID,N_runs,N_questions,Mean single-run acc,SD single-run acc,Min single-run acc,Max single-run acc,Majority-vote acc,Unanimous agreement rate
+BigValley,1,5,50,0.796,0.0167,0.78,0.82,0.78,0.9216
+EastContraCosta,14,5,45,0.76,0.0243,0.7333,0.8,0.7778,0.8431
+Fillmore,15,5,49,0.8,0.0171,0.7755,0.8163,0.8163,0.9216
+SonomaValley,30,5,47,0.7447,0.0336,0.7021,0.7872,0.7447,0.8627
+SanLuisObispoValley,50,5,50,0.68,0.0141,0.66,0.7,0.66,0.9216
+All trial GSPs (pooled),-1,5,241,0.756,0.0054,0.751,0.7635,0.7552,0.8941

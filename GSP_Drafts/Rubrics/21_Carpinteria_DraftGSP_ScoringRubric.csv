@@ -1,0 +1,324 @@
+Unnamed: 0,GENERAL,Unnamed: 2,General Notes ,Unnamed: 4,Unnamed: 5,Unnamed: 6,GSP Information,Answer,Unnamed: 9,Unnamed: 10,Unnamed: 11
+,,,,,,,GSP ID,,,,
+,,,,,,,GSA Name,,,,
+,,,,,,,Subbasin Name,,,,
+,,,,,,,Consultant,,,,
+,,,,,,,GSP version,,,,
+,,,,,,,Acreage of GDEs per basin,,,,
+,,,,,,,DAC Population,,,,
+,,,,,,,Tribal population,,Answer NA if Tribal Population is 0 and there is no mention of tribes described in the GSP.  Answer all Tribal related questions even if tribal populations are 0 and the GSP mentions tribes in the basin.,,
+,,,,,,,Acreage of Managed Wetlands,,,,
+,,,,,,,Point Contact Name,,,,
+Coding Sections,GSP Plan Element,,Topic,Level,Criteria,Spectrum,Key Search Terms,Answer,Relevant Text from GSP,GSP Page / Section,Notes
+Stakeholder,PLAN AREA,,DACs,1,"Does the GSP document how DAC stakeholders were given opportunities to engage in the GSP development process? If so, please describe the level of engagement (e.g., whether stakeholders were on an advisory committee, GSA board, working group) in the Notes. Answer according to level of engagement: Yes = Involve, Collaborate, Empower; Somewhat = Inform and Consult; No = No mention of engagement. ","No = no reference to DACs, no reference to stakeholder engagement during development 
+somewhat=  no specific reference to DAC engagement but lists DAC as a stakeholder, provides stakeholder engagement details 
+Yes= references DACs and how they were engaged specifically during development beyond informing DACs
+","Disadvantaged Communit*, DAC, stakeholder, beneficial user",---,,,"1. DAC's identified? (yes/no):
+2. If yes, which level of engagment:
+3. Evidence/strategies listed for level of engagement:"
+Stakeholder,,,Tribes,1,"Does the GSP document how tribal stakeholders were given opportunities to engage in the GSP development process? If so, please describe the level of engagement (e.g., whether stakeholders were on an advisory committee, GSA board, working group) in the Notes. Answer according to level of engagement: Yes = Involve, Collaborate, Empower; Somewhat = Inform and Consult; No = No mention of engagement. ","No = no reference to Tribes , no reference of stakeholder engagement opportunities
+Somewhat= No specific Tribe engagement described, lists Tribes as stakeholders, includes stakeholder engagement details
+Yes = reference to Tribes in the Basin, documents targetted engagment opportunities for Tribal stakeholders beyond informing","Tribal, tribe, stakeholder, beneficial user",---,,,"1. Tribes identified? (yes/no):
+2. If yes, which level of engagment:
+3. Evidence/strategies listed for level of engagement:"
+Stakeholder,,,Ecosystems,1,"Does the GSP document how environmental stakeholders were given opportunities to engage in the GSP development process? If so, please describe the level of engagement (e.g., whether stakeholders were on an advisory committee, GSA board, working group) in the Notes. Answer according to level of engagement: Yes = Involve, Collaborate, Empower; Somewhat = Inform and Consult; No = No mention of engagement. ","No= does not identify environmental stakeholders or documents engagement opportunies for stakeholders
+Somewhat= identifies environmental users as stakeholders but does not include targetted engagement opportunities for them. Only provides details on engagement opportunities for ALL stakeholders listed. 
+Yes= identifies environmental users as stakeholders, includes targetted engagement opportunities for them beyond informing them","environment, stakeholder, environmental beneficial user",---,,,"
+1. Environmental Stakeholders identified?
+2. Which level of engagment:
+3. Evidence/strategies listed for level of engagement:"
+Stakeholder,,,DACs,2,"Does the Stakeholder Communication and Engagement Plan or GSP include outreach to DACs during GSP implementation? If so, please describe the level of engagement in the Notes. Answer according to level of engagement: Yes = Involve, Collaborate, Empower; Somewhat = Inform and Consult; No = No mention of engagement.","No= does not document implementation outreach for stakeholders, does not identify DACs as stakeholders(when they are present)
+Somewhat= Identifies DACs as stakeholders, outlines outreach to stakeholders (not DAC-specific)
+Yes=Identifies DACs as stakeholders, includes DAC-specific outreach (beyond informing)","Disadvantaged Communit*, DAC, stakeholder, beneficial user",---,,,"1. Documents outreach plans to stakeholders? (yes/no)
+2. List specific outreach methods for DACs?  ( yes/no)
+3. What level of outreach engagement? "
+Stakeholder,,,Tribes,2,"Does the Stakeholder Communication and Engagement Plan or GSP include outreach to tribes during GSP implementation? If so, please describe the level of engagement (e.g., whether stakeholders were on an advisory committee, GSA board, working group) in the Notes. Answer according to level of engagement: Yes = Involve, Collaborate, Empower; Somewhat = Inform and Consult; No = No mention of engagement.","No= does not identify Tribes as stakeholder (when present or ackowledged within the basin), does not outline outreach methods
+Somewhat= might/might not identify Tribes as stakeholder, or reference to Tribal members present in basin but have not Tribe-specific outreach outlined, only general stakeholder outreach 
+Yes= Identifies Tribes as stakeholders, includes outreach specific for Tribal stakehodlers explicitly (beyond informing)","Tribal, tribe, stakeholder, beneficial user",---,,,"1. Documents outreach plans to stakeholders? (yes/no)
+2. List specific outreach methods for Tribes?  (yes/no)
+3. What level of outreach engagement? "
+Stakeholder,,,Ecosystems,2,"Does the Stakeholder Communication and Engagement Plan or GSP include outreach to environmental stakeholders during GSP implementation? If so, please describe the level of engagement in the Notes. Answer according to level of engagement: Yes = Involve, Collaborate, Empower; Somewhat = Inform and Consult; No = No mention of engagement.","No=does not identify environmental users as stakeholders, does not outline outreach methods 
+Somewhat=identifies environmental stakeholders, outlines only general stakeholder outreach, not specific to environmental stakeholders
+Yes=Identifies environmental stakeholders, includes outreach material for env stakeholders specifically beyond informing","environment, stakeholder, environmental beneficial user",---,,,"1. Documents outreach plans to stakeholders? (yes/no)
+2. List specific outreach methods for Environmental stakeholders?  (yes/no)
+3. What level of outreach engagement? "
+Stakeholder,,,All,2,Does the GSP include a Stakeholder Communication and Engagement Plan?,"No= does not include a C&E plan
+Yes= includes specific section in GSP  dedicated to Stakeholder C&E
+","Stakeholder community and engagement plan, beneficial user",---,,,
+Stakeholder,,,DACs,1,Does the GSP identify each DAC by name and location on a map? ,"No= does not identify DACs by name, does not identify DAC locations on a map
+Somewhat=identifies DAC location on a map or DAC by name (one or the other, not both)
+Yes=Identifies DAC location on a map and identifies them by name(re: DAC name-- in text or map))","Disadvantaged Communit*, DAC",---,,,"1. Location on the map? (yes/no)
+2. Identified by name? (yes/no)
+3. DAC places, tracks, or block data used in map?"
+Stakeholder,,,Tribes,1,Are tribal lands identified and mapped in the basin?,"No=does not identify Tribal lands on a map, or references in the text
+Somewhat=Tribal lands are identified in text but not mapped OR Tribal lands are mapped but not identified in text
+Yes=Tribal lands are identified in text and mapped","tribal, tribe",---,,,"1. Tribal lands identified? (yes/no)
+2. Tribal lands mapped? (yes/no)
+"
+Stakeholder,,,DACs,2,Does the GSP describe the size of the population in each DAC?,"No=no reference to DAC population
+Somewhat= Includes a population map and references DAC seperately
+Yes= DAC population is explicitly mentioned or mapped","Disadvantaged Communit*, DAC, population",---,,,"1. Does the GSP document the size of the population for each DAC?
+"
+Stakeholder,,,DACs,2,"Does the GSP map minimum well depth, or depth range, of domestic wells?","No= no map and no reference of well depth, depth range of domestic wells in text; 
+Map of domestic wells (point or density map of DOMESTIC wells) but no depth details in map or text
+Somewhat= no map but range of depths and reference to number of domestic wells
+Yes= map with DOMESTIC depths (density points or data, either in text or in map)",domestic well,---,,,"1. Does the map include depth by location?
+"
+Stakeholder,,,DACs,2,Does the GSP map the density of domestic wells in the basin?,"No= no map of domestic wells, reference of domestic well density in text but no map provided, or no reference at all 
+Yes= density map of Domestic wells
+ ",domestic well,---,,,"1. How are domestic wells mapped (density/point/none)?
+"
+WQ,,,All,,"In the Basin Setting (Groundwater Conditions - Water Quality) section of the GSP, are water quality contaminants or constituents of concern (e.g., Nitrates; Arsenic, Uranium; DBCP; 1,2,3-TCP; Chromium-6; Perchlorate; Particulate Organic Carbon (POC); Brackish water (TDS; salts)) identified and mapped (distribution or contaminant plumes) within the plan area? In the Notes, please specify which contaminants or constituents of concern are present in the basin, and whether (distribution or contaminent plume) maps and trends were provided for each. Answer Yes =  contaminants are identified, mapped, and spatial trends described in the text; Somewhat = contaminants are identified and/or mapped, but not all spatial trends of contaminants are provided; No = No contaminants are / are not identified and mapped, and no spatial trends of contaminants are provided.","no = no water quality evaluation, no mapping spatially or description of temporal trends 
+somewhat = Only come COCs mapped/trends describe, don't mention data for non-COCs
+ yes = COC's have been clearly stated, mapped and temporal trends described, reason for high COC's have been stated","Nitrate; Arsenic, Uranium; DBCP; 1,2,3-TCP; Chromium-6; Perchlorate; Particulate Organic Carbon (POC); Brackish water; constituents of concern (COC); water quality; Contaminants",---,,,"1. Are all concerning constituents identified as COC's, Yes/No -->which ones?
+2. Are the COC's mapped?
+3. Is there spatial trend data for all COC's?
+4. Are constitues which are not of concern identified?
+5. Is there a data gap/ Or not enough data related COC's?
+
+
+"
+WQ,,,DACs,2,Does the GSP identify the water source for DACs?,"No= no mention fo DACs and their source
+Somewhat= general reference to DACs, and general source reference
+Yes=Explicit naming of DAC & Source","Disadvantaged Community*, DAC",---,,,
+ISW/GDE,BASIN SETTING,Interconnected Surface Waters (ISW),Environment,1,"Are gaining and losing reaches adequately assessed spatially and temporally (e.g., groundwater levels (from proximate wells to streams and sufficient density of wells along streams) compared with stream elevation; numerical modelling)? If so, please describe the approach used in the Notes. "," no map or description = no
+1)includes map but data from one point in time was used, 2)includes map but no clear description of methodology = somewhat
+ ISW map and ISWs were delineated using multiple water year types AND description of temporal variability= yes","Interconnected surface water, ISW, gaining, losing",---,,,"1. Is there a clear map of ISWs?
+2. Was temporal variability and used and described?
+3. Methods: Are there sufficient data (well locations in proximity to streams, well density, screening depths) to inform assessment?"
+ISW/GDE,,,Environment,1,"Are the conclusions of ISWs (e.g., no ISWs, some gaining/losing/disconnected) consistent with the assessment? Please describe details in the Notes.","1) no conclusions due to lack of data 2) vague and contradictory conclusions that do not make sense with the assessment 3) concrete conclusions made off of little to no evidence or data. = no
+conclusions lacks some detail and evidence to support claims = somewhat
+ the conclusions are coherent with the analysis and available data= yes","Interconnected surface water, ISW, gaining, losing",---,,,"1. Are ISWs mapped in the basin? 
+2. Is the mapping consistent with the assessment?"
+ISW/GDE,,,Environment,1,"Are all shallow principal aquifers acknowledged in defining ISW? Note: if there is only one unconfined aquifer in the basin, consider this aquifer as the shallow aquifer.","no aquifers are acknowledged; shallow aquifer is acknowledged, but not considered principle for reasons like not the main pumping aquifer = no
+All principal shallow aquifers are not acknowledged in ISW section (or related appendix)  (if multiple exist) = somewhat
+Adequate data from shallow aquifer(s) is used in defining ISWs and all principal shallow aquifers are acknowledged (in ISW section or related appendix)= yes","principal aquifer, shallow ",---,,,"1. Are all shallow aquifers acknowledged in the ISW section (if multiple exist)?
+2. Does the plan consider the shallow aquifer(s) as principal aquifer(s)?
+"
+ISW/GDE,,,Environment,2,Were data gaps identified when mapping ISWs?,"no data gaps identified when there is an obvious lack of data = no
+1) Vague and/or confusing mention of lacking information 2) Mention of ISW data gaps in separate section in GSP. = somewhat
+Clear description of where data gaps exist (temporally and spatially) in ISW section or Data Gaps Section following the assessment= yes","Interconnected surface water, ISW",---,,,"1. Were data gaps identified?
+2. Were the data gaps identified in the ISW section?"
+ISW/GDE,,,Environment,2,"In the case of data gaps and uncertainty, were streams mapped and described as potential ISWs in the GSP? If ISWs are adequately mapped and there is no uncertainty in the ISW mapping, then select ""Not Applicable"".","no description or map of potential ISWs = no
+1) partial inclusion of potential ISWs 2) only a description but no map or vice versa = somewhat
+All uncertainties and data gaps are clearly described and mapped temporarily and spatially= yes","Interconnected surface water, ISW, data gap",---,,,1. Is there a map AND description of pISW?
+ISW/GDE,,Groundwater Dependent Ecosystems (GDE),Environment,1,"Is there an inventory, map, or description of fauna (e.g., birds, fish, amphibian) and flora (e.g., plants) species or habitat types in the basin's GDEs? Please indicate in the notes if threatened and endangered species are identified in the GSP.","No description of flora and fauna in GDEs = no
+1) lacking in either maps/description/inventory of flora and/or fauna 2) no mention of endandgered/threatened species= somewhat
+Detailed inventory, maps, or description of flora AND fauna in GDEs. Also, Inclusion of any threatened and/or endangered species in the basin.= yes","groundwater dependent ecosystem, groundwater-dependent ecosystem, GDE, habitat, species",---,,,"1. Does the plan present the flora AND fauna in the basin's GDEs? Habitat types (in GDE section or related appendix)?
+2. Does the plan acknowledge endangered/threatened/special status species in GDEs?"
+ISW/GDE,,,Environment,1,"Were GDEs in the basin identified (mapped) and described in the GSP using best available data (e.g., NC dataset, localized VegMap data)? Please describe which data were used in the Notes.","No map of GDEs (or wetlands, riparian veg, etc.) = no
+1) Map of NC dataset polygons with NDMI but no specific GDE maps, 2) Maps of GDEs but unclear data/methods used = somewhat
+GSP used NC dataset or a localized vegMap to describe and map GDEs and included a clear description of methods = yes","groundwater dependent ecosystem, groundwater-dependent ecosystem, GDE, NC dataset, VegMap",---,,,"1. Is there a map? 
+2. Is there a description of data sources and processing (in GDE section or related appendix)? (describe in notes)"
+ISW/GDE,,,Environment,1,Was depth-to-groundwater data from the underlying principal aquifer used to verify the NC dataset?,"No groundwater depth data described = no
+Groundwater measurements used but lack of detail in describing depth to groundwater data. Also there might be a lack of information on which aquifer the data is from. = somewhat
+depth to groundwater is clearly used and description of spatial/temporal data is included = yes","groundwater dependent ecosystem, groundwater-dependent ecosystem, GDE, NC dataset, depth to groundwater",---,,,"1. Is data from shallowest principal aquifer used?
+2. Is there a description of the data (in GDE section or related appendix)? (spatial, temporal, proximity to GDEs?)
+"
+ISW/GDE,,,Environment,2,"Did the GSP avoid using any of the following criteria when deciding whether or not to remove NC dataset polygons from the final GDE map?: 1)Presence of Surface Water, 2)Distance from agricultural fields, 3)Principal aquifer was not considered main pumping aquifer, 4)groundwater connection % of time, 5)Other?  If so, please specify in the Notes. ","GSP uses one of the above criteria (or other illogical reason) to remove a potential GDE = no
+Unclear whether or not plan used these criteria = somewhat
+The GSP does not include any of these criteria to remove a NC dataset polygon = yes","groundwater dependent ecosystem, groundwater-dependent ecosystem, GDE, NC dataset",---,,,
+ISW/GDE,,,Environment,2,"Were multiple water year types (e.g., wet, average, dry) of groundwater level data used to characterize groundwater conditions in the GDEs? If so, please indicate which years and water year types in the Notes.","Only 1 year of data or no data used to characterize gw conditions in GDE = no
+The plan lacks a description of multi-year groundwater level data and/or only post-drought or post- SGMA benchmark data is used (after 2015)  = somewhat
+1. Detailed explanation of the multi-year groundwater data used and 2. groundwater data from prior to recent drought = yes","groundwater conditions, groundwater dependent ecosystem, groundwater-dependent ecosystem, GDE, depth to groundwater, depth to water",---,,,"Note: 
+water year type does not need to be explictely mentioned when groundwater data used multiple years of known wet and dry periods
+
+"
+ISW/GDE,,,Environment,2,Were depth-to-groundwater measurements under GDEs corrected for land surface elevations?,"depth to water measurements interpolated from wells = no
+Model is said to use groundwater elevations, but did not state that they corrected for land surface elevation = somewhat
+It is explicit that groundwater measurements used to verify GDEs are correct for land surface elevation = yes","DEM, digital elevation model, land surface elevation, depth to groundwater, GDE, groundwater dependent ecosystem",---,,,1. Was a digital elevation model (DEM) or Lidar data used to correct for land surface elevation?
+ISW/GDE,,,Environment,2,Were data gaps identified when mapping GDEs?,"No data gaps identified when there likely should be = no
+Vague description of a lack of data or data gaps mentioned in other section of GSP = somewhat
+Clear description of data gaps (spatial and temporal) in text and/or mapped = yes","groundwater dependent ecosystem, groundwater-dependent ecosystem, GDE, data gap, shallow monitoring well, shallow aquifer",---,,,"1. Were data gaps identified?
+2. Were the data gaps identifed in the GDE section?"
+ISW/GDE,,,Environment,2,"In the case of data gaps and uncertainty, were potential GDEs mapped and described in the GSP?","Potential GDEs are not mapped or described in plan  = no
+Vague description of potential GDEs and/or no map; wrong methods for assuming non-GDEs = somewhat
+Potential GDEs are clearly acknowledged and mapped. = yes","potential groundwater dependent ecosystem, potential GDE, potential groundwater-dependent ecosystem, data gap",---,,,1. Is there a map AND description of pGDEs?
+CC/Other,,Water Budget,Ecosystems,1,"Does the GSP include water demands for native vegetation in the historic, current, and projected water budgets?","No: No mention of evapotranspiration for the water budget
+Somewhat: Numerical models that include different land cover classes in evapotranspiration 
+Yes: Riparian Evapotranspiration separated out in the water budget charts or tables ","water budget, native vegetation, phreatophyte",---,,,"1. Is the water budget made with a spreadsheet model or numerical model?
+2. Is there a line for Native Veg ET in the water budget?
+"
+CC/Other,,,Ecosystems,1,"Does the GSP include water demands for managed wetlands in the historic, current, and projected water budgets?","No: No line item or description of managed wetlands’ water demands in water budgets even if wetlands are discussed in other areas of GSP. No mention of managed wetlands in GSP.  
+Somewhat: Managed wetlands are part of the numerical model or spreadsheet model assumptions but not included as a separate line item
+Yes: Separate line item for managed wetlands in water budgets","water budget, managed wetlands",---,,,"1. Is the water budget made with a spreadsheet model or numerical model?
+2. Is there a line for Managed Wetlands in the water budget?
+"
+CC/Other,,,Climate Change,1,"Does the GSP incorporate climate change into the projected water budget using DWR change factors or other source? If other, please specify in the Notes. If DWR change factors were used, indicate in the Notes whether the GSP use 2030 factors, 2070 factors, or both?","No: Climate change not incorporated into projected water budget
+Somewhat: Use a different climate model other than DWR change factors but description of methodology is unclear
+Yes: Climate change is incorporated and methods are clearly stated","water budget, climate change, change factors, 2030, 2070",---,,,"1. Is climate change incorporated?
+2. Do they use DWR change factors (climate period analysis), transitory analysis or something else (describe)?
+3. If using DWR climate change factors, do they use 2030, 2070 or both?"
+CC/Other,,,Climate Change,1,"Does the GSP consider multiple climate scenarios (e.g., the 2070 wet and 2070 extremely dry) scenarios in the projected water budget? If there are other scenarios considered in the GSP, please specify in the Notes.","No: Only one climate scenario used
+Somewhat: no somewhat for this question
+Yes: Multiple climate scenarios used (wet / extremely dry) and provided in projected water budget","projected water budget, 2070",---,,,"1. If they use DWR climate change factors, which scenarios do they use? (central tendency, extreme wet, extreme dry)
+2. If other than DWR factors, which combination(s) of RCP and GCM do they use?
+3. If other than DWR factors, do they use an ensemble of models or single model run?"
+CC/Other,,,Climate Change,2,Does the GSP incorporate climate change into precipitation inputs for the projected water budget?,"No: Precipitation not adjusted for climate change in inputs for projected water budget
+Somewhat: no somewhat for this question
+Yes: Precipitation adjusted for climate change either through change factors or other model projections for the projected water budget","projected water budget, precipitation, input",---,,,
+CC/Other,,,Climate Change,2,Does the GSP incorporate climate change into evapotranspiration inputs for the projected water budget?,"No: Evapotranspiration not adjusted for climate change in projected water budget inputs
+Somewhat: no somewhat for this question
+Yes: Evapotranspiration adjusted for climate change either through change factors or other model projections in projected water budgets","projected water budget, evapotranspiration, ET, input",---,,,
+CC/Other,,,Climate Change,2,"Does the GSP incorporate climate change into surface water flow inputs (e.g., imported water, streamflow) for the projected water budget?","No: Surface water inputs are not accounted for in projected water budgets
+Somewhat: CC in surface water flows, BUT imported water not adjusted 
+Yes: Surface water flows adjusted for climate change (DWR change factors for spreadsheet model, modeled with adjusted precip and ET for numerical model) and if there is imported water, it is adjusted as well.","projected water budget, surface water flow, input",---,,,"1. Is the water budget made with a numerical model or spreadsheet model?
+2. If spreadsheet, are DWR surface water change factors included?
+3. Is there imported water in the water budget? Is this adjusted for climate change?"
+CC/Other,,,Climate Change,2,Does the GSP incorporate climate change into sea level inputs for the projected water budget?,"No: Does not mention or apply sea level rise into projected water budget though located in vicinity of coastal region
+Somewhat: no somewhat for this question
+Yes: Clear sea level rise projections under climate change incorporated into projected water budget","projected water budget, sea level, input",---,,,
+CC/Other,,,Climate Change,2,Does the GSP calculate a sustainable yield based on the projected water budget with climate change incorporated?,"No: Sustainable yield not provided or is not calculated based on projected water budget with climate change
+Yes: Sustainable yield is calculated based on projected water budget with climate change (ranges based on different future scenarios is OK)","sustainable yield, projected water budget",---,,,
+WQ,SUSTAINABLE MANAGEMENT CRITERIA,Undesirable Results,Domestic,1,Does the GSP analyze direct or indirect impacts on domestic drinking wells when defining Undesirable Results for 1) Chronic Lowering of Groundwater Levels and 2) Water Quality (See line 24)?,"NO: no mention Somewhat: explicit mention of drinking water users, but not well analyzed; mention impact on one of the UR, mentioning some of the COCs. YES: clear impact on drinking water users & explanation of all COCs","domestic well, drinking water, undesirable result, groundwater levels, water quality, groundwater quality",---,,,"1. Do they mention Drinking water users for UR?
+2. Which URs mention Drinking Water Users?
+3. Are impacts to Drinking Water users well analyzed? (mention well elevation and quality impacts)
+4. Are all impacts of all COCs described?"
+Stakeholder & WQ,,,DACs,1,"Does the GSP analyze direct and indirect impacts on DACs when defining Undesirable Results for 1) Chronic Lowering of Groundwater Levels, and 2) Water Quality (see line 24)?","NO: no mention of DACs Somewhat: mention DACs, but not well analyzed Yes: impacts to DACs analyzed and described (describe impact to DAC well elevations/quality)","disadvantaged communit*, DAC, tribal, tribe, drinking water, undesirable result, groundwater levels, water quality, groundwater quality",---,,,"1. Do they mention DACs for UR?
+2. Which URs mention DACs?
+3. Are impacts to DACs well analyzed?
+"
+Stakeholder & WQ,,,Tribes,1,"Does the GSP analyze direct and indirect impacts on Tribes when defining Undesirable Results for 1) Chronic Lowering of Groundwater Levels, 2) Water Quality (see line 24), and 3) Depletions of Interconnected Surface Waters?","NO: no mention of Tribes 
+Somewhat: mention Tribes, but not well analyzed
+Yes: impacts to tribes analyzed and described (describe impact to Tribal wells/elevations)","disadvantaged communit*, DAC, tribal, tribe, drinking water, undesirable result, groundwater levels, water quality, groundwater quality",---,,,"1. Do they mention Tribes for UR?
+2. Which URs mention Tribes?
+3. Are impacts to Tribes well analyzed?
+"
+ISW/GDE & WQ,,,Ecosystems,1,"Does the GSP analyze direct and indirect impacts on GDEs when defining Undesirable Results for 1) Chronic Lowering of Groundwater Levels, 2) Water Quality, and 3) Depletions of Interconnected Surface Waters?","NO: no mention of GDEs Somewhat: mention GDEs, but not well analyzed; only for 1 or 2 URs Yes: impacts to GDEs analyzed and described ( impacts to specific species - cause and effect ecosystem, e.g. dieback, impacts to habitat)","groundwater dependent ecosystem, GDE, groundwater-dependent ecosystem, instream, environment, undesirable result, groundwater levels, water quality, groundwater quality, depletion of surface water, ISW",---,,,"1. Do they mention GDEs for UR?
+2. Which URs mention GDEs?
+3. Are impacts to GDEs well analyzed?
+"
+WQ,,Minimum Thresholds,All,2,Does the GSP establish Water Quality minimum thresholds and measurable objectives for the identified constituents/contaminents identified in the plan area (see line 24)? Please identify which constituents have Minimum Thresholds and Measurable Objectives in the Notes.,No - none Somewhat - only some COCs Yes - both,"minimum threshold, water quality, groundwater quality, contaminent, constituent of concern, COC",,,,"1. Are MT and MO set for COCs?
+2. Do they set MT and MO for all COCs?"
+WQ,,,All,2,"Are Water Quality minimum thresholds based on or within the Maximum Contaminent levels (MCLs)? Answer Yes = for identified constituents; Somewhat = for some of the identified constituents; No = none of the identified constituents; Not Applicable should never be an answer for this question. Note: Secondary MCLs are ok for TDS, sulfate, chloride, manganese, iron.",No - none Somewhat - only some COCs Yes - both,"maximum contaminent level, MCL, minimum threshold, water quality, groundwater quality, contaminent, constituent of concern, COC",---,,,"1. Are MT set at MCL level for COCs?
+2. Are all MT set at MCL level?
+
+"
+WQ,,,Drinking Water Users,1,"Does the GSP evaluate the cumulative or indirect impacts of proposed groundwater elevation and water quality minimum thresholds on drinking water users (e.g., domestic wells, municipal water suppliers)? ",NO: no mention Somewhat: mention vaguely &/ only for one MT section YES: mention in both MT sections and use quantitative data to justify/describe,"minimum threshold, disadvantaged communit*, drinking water users, domestic, domestic wells, groundwater levels, water quality, groundwater quality",---,,,"1. Do they mention impact of groundwater elevation MT on drinking water users?
+2. Do they mention impact of water quality MT on drinking water users?
+3. Do they use quantitative data to describe the harm of crossing the MT?
+
+"
+Stakeholder & WQ,,,DACs,1,Does the GSP evaluate the cumulative or indirect impacts of proposed groundwater elevation and water quality minimum thresholds on DACs?,NO: no mention Somewhat: mention vaguely &/ only for one MT section YES: mention in both MT sections and use quantitative data to justify/describe,"minimum threshold, disadvantaged communit*, DAC, groundwater levels, water quality, groundwater quality",---,,,"1. Do they mention impact of groundwater elevation MT on DACs?
+2. Do they mention impact of water quality MT on DACs?
+3. Do they use quantitative data to describe the harm to DACs of crossing the MT?
+
+"
+Stakeholder & WQ,,,Tribes,1,"Does the GSP evaluate the cumulative or indirect impacts of proposed groundwater elevetion, ISW and water quality minimum thresholds on Tribes? ",NO: no mention Somewhat: mention vaguely &/ only for one MT section YES: mention in both MT sections and use quantitative data to justify/describe,"minimum threshold, disadvantaged communit*, DAC, tribal, tribe, groundwater levels, water quality, groundwater quality",---,,,"1. Do they mention impact of groundwater elevation MT on Tribes?
+2. Do they mention impact of water quality MT on Tribes?
+2. Do they mention impact of ISW MT on Tribes?
+4. Do they use quantitative data to describe the harm to Tribess of crossing the MT?
+"
+ISW/GDE & WQ,,,Ecosystems,1,Does the GSP evaluate the cumulative or indirect impacts of proposed minimum thresholds for groundwater elevations and ISW on GDEs or environmental beneficial users of surface water?,NO: no mention Somewhat: mention vaguely &/ only for one MT section YES: mention in both MT sections and use quantitative data to justify/describe,"minimum threshold, groundwater dependent ecosystem, groundwater-dependent ecosystem, GDE, environmental beneficial user, instream, groundwater levels, water quality, groundwater quality, depletion of surface water ISW",---,,,"1. Do they mention impact of groundwater elevation MT on GDEs?
+2. Do they mention impact of ISW MT on GDEs?
+3. Do they use quantitative data to describe the harm of crossing each of the MT?
+
+"
+WQ,,Measurable Objectives,Drinking Water Users,2,Does the GSP consider Drinking Water Users when establishing water quality and groundwater elevation measurable objectives?,NO: no mention Somewhat: mention vaguely &/ only for one MO section YES: mention in both MO sections and justify/describe,"drinking water users, domestic, measurable objective, water quality, groundwater quality, contaminent, constituent of concern, COC",---,,,"1. Does the GSP mention Drinking Water Users for water quality MO?
+2. Does the GSP mention Drinking Water Users for groundwater elevation MO?
+3. Do they justify/evaluate the MOs based on Drinking Water users water needs?
+"
+Stakeholder & WQ,,,DACs,2,Does the GSP consider DACs when establishing water quality and groundwater elevation measurable objectives?,NO: no mention Somewhat: mention vaguely &/ only for one MO section YES: mention in both MO sections and justify/describe,"measurable objectives, disadvantaged communities, DAC",---,,,"1. Does the GSP mention DACs for groundwater elevation MO?
+2. Does the GSP mention DACs for ISW MO?
+3. Do they justify/evaluate the MOs based on DAC water needs?
+
+"
+Stakeholder & WQ,,,Tribes,2,"Does the GSP consider Tribes when establishing water quality, ISW and groundwater elevation measurable objectives?",NO: no mention Somewhat: mention vaguely &/ only for one MO section YES: mention in both MO sections and justify/describe,"measurable objectives, tribal, tribes",---,,,"1. Does the GSP mention Tribes for WQ MO?
+2. Does the GSP mention Tribes for groundwater elevation MO?
+3. Does the GSP mention Tribes for ISW MO?
+4. Do they justify/evaluate the MOs based on Tribal water needs?
+
+"
+ISW/GDE & WQ,,,Ecosystems,2,Does the GSP consider GDEs when establishing ISW and groundwater elevationmeasurable objectives?,NO: no mention Somewhat: mention vaguely &/ only for one MO section YES: mention in both MO sections and justify/describe,"measurable objectives, groundwater dependent ecosystems, environmental beneficial user",---,,,"1. Does the GSP mention GDEs for ISW MO?
+2. Does the GSP mention GDEs for groundwater elevation MO?
+3. Do they justify/evaluate the MOs based on GDE water needs?
+
+"
+RMS/Maps,MONITORING NETWORK,,DACs / Tribes / Drinking Water Users,1,"Do the Representative Monitoring Sites (RMS) in the monitoring network adequately represent water quality conditions around DACs, domestic wells, and Tribes (In the case of data gaps, evaluate proposed monitoring sites)? In the notes, please specify whether RMS for each of the contaminents identified in the basin (see line 24). Answer Yes = existing and proposed monitoring wells are adequately distributed across DAC, domestic well, and Tribal areas; Somewhat = existing and proposed RMS do not adequately cover DAC, domestic well, and Tribal portions of the basin; No = Existing and proposed RMS are not available within DAC, domestic well, and Tribal areas.","NO = RMS are not located within one  mile of any DACs, domestic wells, or tribes
+Somewhat = RMS are within one mile of at least one DAC, domestic well or tribe
+Yes = RMS are within one mile of ALL DAC, domestic and tribal communities within the basin boundary
+","water quality, contaminents, COC, data gap, disadvantaged communit*, DAC",---,,,"1. How were WQ RMS listed? (CASGEM ID, lat/long, described) 
+2. How many WQ RMS were we able to map? (all, some, none) 
+3. Of those mapped, was there a well within 1 mile of DACs? 
+4.Of those mapped, was there a well within 1 mile of Tribes? 
+5. Of those mapped, was there a well within 1 mile of domestic wells?"
+RMS/Maps,,,DACs / Tribes / Drinking Water Users,1,"Do the Representative Monitoring Sites (RMS) in the monitoring network adequately represent shallow groundwater elevations around DACs, domestic wells, and Tribes (In the case of data gaps, evaluate proposed monitoring sites). In the notes, please specify any deficiencies in the distribution of representative monitoring sites (RMS). Yes = existing and proposed monitoring wells are adequately distributed across DAC, drinking wells, and tribal areas; Somewhat = existing and proposed RMS do not adequately cover DAC, drinking wells, and tribal portions of the basin; No = Existing and proposed RMS are not available within DAC, drinking wells, and tribal areas.","NO = RMS are not located within a mile of any DACs, domestic wells, or tribes
+Somewhat = RMS are within one mile of at least one DAC, domestic well or tribe
+Yes = RMS are within one mile of ALL DAC, domestic and tribal communities within the basin boundary
+","shallow monitoring well, data gap, disadvantaged communit*, DAC, tribal, tribe",---,,,"1. How were Elevation RMS listed? (CASGEM ID, lat/long, described)
+2. How many Elevation RMS were we able to map? (all, some, none)
+3. Of those mapped, was there a well within 1 mile of DACs?
+4.Of those mapped, was there a well within 1 mile of Tribes?
+5. Of those mapped, was there a well within 1 mile of domestic wells?"
+ISW/GDE,,,Environment,1,Does the GSP include a plan to identify and fill shallow monitoring well data gaps around GDEs and ISWs in the monitoring network?,"No plan in place to identify and fill shallow well data gaps around GDEs and ISWs; no potential plan
+  = no
+Mention of shallow monitoring data gap and need to fill but no detailed plan in monitoring network or PMAs; contradictory statements in different sections; potential PMA; City is handling it = somewhat
+GSP has a clear plan to fill spatial and/or temporal data gaps with regards to GDEs and ISWs in monitoring network section or PMAs
+. = yes","shallow monitoring well, data gap, groundwater dependent ecosystem, groundwater-dependent ecosystem, GDE ",---,,,"1. Is there a plan to fill shallow groundwater wells in the monitoring network section?
+2.And/OR is there a plan to fill shallow groundwater wells in the PMA section?"
+ISW/GDE,,,Environment,2,Does the GSP include any plans to incorporate GDE-related biological monitoring into the monitoring network?,"No plan or mention of biological monitoring 
+  = no
+Some coordination with other agencies; Mention of the possibility of future biological monitoring/surveys = somewhat
+Clear plans for biological monitoring are described; Remote sensing; field surveys, etc. = yes","GDE Pulse, NDVI, normalized difference vegetation index, biologic*, survey, vegetation, fish",---,,,"1. Is there a plan in place for biological monitoring, including but not limited to field surveys, remote sensing (NDMI, NDVI), aerial photographs?"
+WQ,PROJECTS & MANAGEMENT ACTIONS,,Environment,2,Does the GSP include any recharge projects with explicit benefits to the environment?,"NO = no recharge & no mention of benefits, &/ on-going project without coordination. SOMEWHAT = benefits to environment generally &/or on-going project with coordination &/or proposed project;  YES = explicit benefits to environment & the GSPs implementing;","recharge, managed aquifer recharge, MAR, multi-benefit recharge",---,,,"1. Are there projects that involve groundwater recharge?
+2. Do those projects list explicit benefits to the environment?
+3. Are the projects new, on-going or proposed?
+4. Are the projects implemented by the GSP or others? 
+5. If others, is the GSP coordinating with the others in implementation?
+"
+WQ,,,Environment,2,"Does the GSP include any habitat or stream restoration or invasive species removal projects (e.g., to improve water supply in the basin or GDE habitats)?",NO = on-going project without coordination. SOMEWHAT = on-going project with coordination &/or proposed project;  YES = the GSPs implementing;,"invasive species, habitat",---,,,"If yes to projects:
+1. Are the projects new, on-going or proposed?
+2. Are the projects implemented by the GSP or others? 
+3. If others, is the GSP coordinating with the others in implementation?
+"
+WQ,,,All,1,"Does the GSP identify benefits or impacts of identified projects and management actions to key beneficial users such as GDEs, drinking water users, tribes, DACs?","NO = no mention of benefits, &/ on-going project without coordination beyond general mention of ""beneficial users"". SOMEWHAT = beneficial users explicilty identified, but impacts not well described or beneficial users explicilty identifed and described, but no PMAs with benefits to GDEs, drinking water users, tribes or DACs;  YES = beneficial users exlicitly idenfitied, impacts and benefits described and PMAs with benefits to GDEs, drinking water users, tribes and DACs.","beneficial users, environment, GDE, DAC, trib*",---,,,"1. Do they identify explicity beneficial users? 
+2. Do they describe the impact or benefit to the users identified?
+3. Across all PMAs, do they include GDEs, drinking water users, Tribes and DACs? If yes, which? 
+4. Are the projects proposed, ongoing?
+5. Are the projects implemented by GSA or others?
+"
+Stakeholder & WQ,,,DACs,2,Does the GSP include any recharge projects with explicit benefits to DACs?,"NO = no mention of benefits, &/ on-going project without coordination. SOMEWHAT = benefits to beneficial users broadly &/or on-going project with coordination &/or proposed project;  YES = explicit benefits to environment & the GSPs implementing;","recharge, managed aquifer recharge, MAR",---,,,"1. Are there projects that involve groundwater recharge?
+2. Do those projects list explicit benefits to DACs?
+3. Are the projects new, on-going and proposed?
+4. Are the projects implemented by the GSP or others? 
+5. If others, is the GSP coordinating with the others in implementation?
+"
+WQ,,,DACs / Drinking Water,,Does the GSP include a drinking water well mitigation program to avoid significiant and unreasonable loss of drinking water?,"NO: No well mitigation program SOMEWHAT: well mitigation program, but not explicitly for drinking water users and DACs &/ proposed or on-going with coordination YES: well mitigation program for drinking water users and DACs","drinking water, well mitigation program",---,,,"1. Is there a well mitigation program?
+2. Is the program new, on-going or proposed?
+3. Is the well mitigation program explicitly for drinking water users and DACs?
+
+"
+WQ,,,DACs,1,Does the GSP identify potential impacts to water quality from Projects and Management Actions?,"NO = no mention of benefits, &/ on-going project without coordination. SOMEWHAT = benefits to beneficial users broadly &/or on-going project with coordination &/or proposed project;  YES = explicit benefits to DACs & the GSPs implementing;","water quality, disadvantaged communit*, DAC",---,,,"1. Do those projects list potential impacts to water quality?
+2. Do those Projects list potential impacts to DAC?
+3. Are the projects new, on-going or proposed?
+4. Are the projects implemented by the GSP or others? 
+5. If others, is the GSP coordinating with the others in implementation?
+"
+CC/Other,OTHER,,,,Does the GSP have plans to use Open ET to monitor groundwater extractions from agriculture?,"No: Open ET not mentioned in GSP
+Somewhat: Satellite based evapotranspiration used in analysis and monitoring for future groundwater extractions from agriculture
+Yes: Open ET identified as a resource that will be used for monitoring future extractions from agriculture",OpenET,---,,,
+CC/Other,,,,,Does the GSP have plans to install meters on wells in the basin?,"No: No mention of installing meters on wells or mentions meters as a DWR recommendation but no plans to install
+Somewhat: Mentions potential plans for installing meters in event of exceedance, or identifies need for meters but no details of plans for installation
+Yes: Describes plans for installing meters in detail as a planned project  ",meters,---,,,
+CC/Other,,,,,"Does the GSP have plans to implement demand reduction (e.g., pumping cuts) in the basin?","No:  Demand reduction not mentioned 
+Somewhat: Mentions potential plans for demand reduction in event of exceedance, or future potential PMAs of demand reduction
+Yes: Planned PMAs of demand reduction are described","demand, demand reduction, pumping cuts, demand management",---,,,
+CC/Other,,,,,"Does the GSP have plans to implement supply augmentation (e.g., recharge projects, desalinating brackish groundwater) in the basin to achieve sustainability?","No: No plans in place for supply augmentation
+Somewhat: Potential projects or evaluations of feasibility to implement supply augmentation mentioned
+Yes: Planned supply augmentation described in detail to achieve sustainability","recharge, managed aquifer recharge, MAR, desalin*, brackish groundwater",---,,,
+CC/Other,,,,,"Do they evaluate whether Project and Management Actions close the gap for current and projected sustainable yield (e.g., overdraft as compared to the projected sustainable yield)? ","No: No mention of sustainable yield or overdraft, or closing the gap through PMAs
+Somewhat: PMAs are described to close the gap but are future potential projects
+Yes: Planned PMAs are identified as those that close the gap for projected sustainable yield and is demonstrated quantitatively","sustainable yield, overdraft, balance",---,,,
+CC/Other,,,,,Does the GSP reference / propose any new water markets in the basin?,"No: No new water markets referenced or proposed
+Somewhat: no somewhat for this question
+Yes: New water markets are referenced or proposed",water market,---,,,
+CC/Other,,,,,"Does the GSP identify the potential impact of climate change on obtaining/crossing thresholds for Sustainable Management Criteria (e.g., as a driver of undesirable result or potential reason for crossing a minimum threshold)?","No: No impacts from climate change referenced in SMC
+Somewhat: References climate change impacts but does not identify as a reason for crossing thresholds
+Yes: Explicitly identifies climate change as a reason for obtaining/crossing thresholds for SMC",climate change,---,,,
+CC/Other,,,,,"Does the GSP includes details on coordination with water quality control programs (e.g., Regional Water Quality Control Board, CV-Salts)?","No: No mention of RWQCB or it is mentioned but coordination not discussed at all
+Somewhat: Recognizes RWQCB as interested party or stakeholder but details of coordination not included
+Yes: Coordination between RWQCB and GSA are clearly defined","Regional Water Quality Control Board (RWQCB), CV-Salts",---,,,
+CC/Other,,,,,"How many PMAs are there (total #, including tiers)?","No spectrum, just # of PMAs",,,,,
+CC/Other,,,,,"Are the PMAs all planned projects?  If not, please elaborate whether projects are proposed and how many are proposed versus planned?","no = all proposed
+somewhat = mix of planned and proposed
+yes = all planned",,---,,,

@@ -1,0 +1,11 @@
+# Python dependencies for the eval and figure scripts.
+# install with: pip install -r requirements.txt
+anthropic
+matplotlib
+numpy
+openai
+pandas
+pdfplumber
+rank-bm25
+scikit-learn
+sentence-transformers

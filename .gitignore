@@ -1,0 +1,46 @@
+# OS / editor
+.DS_Store
+**/.DS_Store
+.idea/
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Local environment
+anaconda_projects/
+
+# API keys / secrets
+*api_key*
+*apikey*
+*_api
+*.env
+
+# Large embedding caches (1-2 GB total)
+results/gsp_embeddings/
+results/embeddings_cache.pkl
+results/embeddings_cache_chunks.pkl
+results/embeddings_ft_gsps/
+results/embeddings_fullset/
+results/embeddings_vision/
+*.pkl
+
+# Fine-tuned model weights
+models/
+
+# Draft / experimental code (not ready for outside viewers)
+code drafts/
+
+# All GSP draft PDFs (large binaries; full corpus not redistributable)
+GSP_Drafts/*.pdf
+
+# Intermediate / draft figures
+images/intermediate_figs/
+
+# Run logs
+*.log
+nohup.out
+results/*_log.txt
