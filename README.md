@@ -1,6 +1,6 @@
 # LLMs for GSPs
 
-Code and data for our paper on automating the review of California Groundwater Sustainability Plans (GSPs) using large language models.
+Code and data for "Improving Conservation Efficiency: Accelerating Groundwater Sustainability Plan Reviews Using Large Language Models"
 
 ## Repo structure
 
