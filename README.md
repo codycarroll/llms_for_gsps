@@ -1,6 +1,8 @@
 # LLMs for GSPs
 
-Code and data for "Improving Conservation Efficiency: Accelerating Groundwater Sustainability Plan Reviews Using Large Language Models"
+Code and data for 
+
+"Improving Conservation Efficiency: Accelerating Groundwater Sustainability Plan Reviews Using Large Language Models"
 
 ## Repo structure
 
