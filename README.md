@@ -49,7 +49,7 @@ GPT-4.1 FT applied to all 62 California GSPs: **75.6% accuracy** (57 non-trial G
 
 ## Notes
 
-Install dependencies with `pip install -r requirements.txt`. API keys are not included: the scripts read `OPENAI_API_KEY` and `ANTHROPIC_API_KEY` from the environment, and the fine-tuned model can be overridden with the `GSP_FT_MODEL` variable. Large embedding caches, model weights, and most GSP PDFs are excluded from this repo via `.gitignore` — see the paper for the full data pipeline.
+Install dependencies with `pip install -r requirements.txt`. API keys are not included: the scripts read `OPENAI_API_KEY` and `ANTHROPIC_API_KEY` from the environment, and the fine-tuned model can be overridden with the `GSP_FT_MODEL` variable. Large embedding caches, model weights, and most GSP PDFs are excluded from this repo via `.gitignore`. See the paper for the full data pipeline.
 
 ## License
 
